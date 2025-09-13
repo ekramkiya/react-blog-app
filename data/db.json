@@ -1,0 +1,55 @@
+{
+    "articles": {
+        "status": true,
+        "data": [
+            {
+                "id": 1,
+                "imageUrl": "https://example.com/image1.jpg",
+                "title": "عنوان اول",
+                "readingTime" : 5
+
+            },{
+                "id":2,
+                "imageUrl": "https://example.com/image2.jpg",
+                "title":"عنوان دوم",
+                "readingTime" : 3
+            },
+            {
+                "id":3,
+                "imageUrl": "https://example.com/image3.jpg",
+                "title":"عنوان سوم",
+                "readingTime" : 4
+            }
+            ,{
+                "id":4,
+                "imageUrl": "https://example.com/image4.jpg",
+                "title":"عنوان چهارم",
+                "readingTime" : 6
+            },
+            {
+                "id":5,
+                "imageUrl": "https://example.com/image5.jpg",
+                "title":"عنوان پنجم",
+                "readingTime" : 2
+            }
+            ,{
+                "id":6,
+                "imageUrl": "https://example.com/image6.jpg",
+                "title":"عنوان ششم",
+                "readingTime" : 7
+            }
+            ,{
+                "id":7,
+                "imageUrl": "https://example.com/image7.jpg",
+                "title":"عنوان هفتم",
+                "readingTime" : 5
+            }
+            ,{
+                "id":8,
+                "imageUrl": "https://example.com/image8.jpg",
+                "title":"عنوان هشتم",
+                "readingTime" : 4
+            }
+        ]
+    }
+}

@@ -1,12 +1,15 @@
 import styles from "./article.module.css";
 import image from "./../../assets/images/js.jpeg";
 
-function Article() {
+function Article(props) {
+   
+    console.log(props);
+    
   return (
      <div className={styles.articleWrapper}> 
-     <img src={image} alt="Article" />
-     <h3>متغیر ها در جاوااسکریپت</h3>
-     <p>خواندن پنج دقیقه ایی</p>
+     <img src={props.article.imageUrl} alt="Article" />
+     <h3>{props.article.title}</h3>
+     <p>{props.article.readingTime}</p>
     </div>
     );
 }

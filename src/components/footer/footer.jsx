@@ -5,9 +5,11 @@ function Footer(props){
   return(
     <div className={styled.footer}>
 
-      <h4>{props.name}</h4>
+      <h4>Footer</h4>
+  
     </div>
   )
 }
+
 
 export default Footer;

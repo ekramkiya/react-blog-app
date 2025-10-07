@@ -1,0 +1,23 @@
+.about {
+  text-align: center;
+}
+
+.about h2 {
+  margin: 40px 0;
+  text-align: right;
+}
+
+.about p {
+  text-align: right;
+}
+
+.about img{
+    height: 300px;
+      border-radius: 5%;
+}
+
+
+.about p {
+  text-align: center;
+
+}

@@ -1,0 +1,39 @@
+
+.articlePage{
+   text-align: center;
+}
+
+.articlePage h1{
+   text-align: right;
+   margin-top: 50px;
+   margin-bottom: 10px;
+   font-size: 24px;
+}
+
+.articlePage img{
+  
+   width: 50%;
+   margin-bottom: 10px;
+   margin-top: 10px;
+}
+.articleInfo{
+    display: flex;
+    justify-content: end;
+    margin-bottom: 10px;
+    flex-direction: row-reverse;
+    
+}
+
+.articleInfo span{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    color: #777;
+    
+}
+
+.articlePage p {
+    text-align: right;
+   margin-top: 30px;
+   margin-bottom: 10px;
+   
+}

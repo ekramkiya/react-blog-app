@@ -1,55 +1,85 @@
 {
-    "articles": {
-        "status": true,
-        "data": [
-            {
-                "id": 1,
-                "imageUrl": "https://example.com/image1.jpg",
-                "title": "عنوان اول",
-                "readingTime" : 5
+    "articles": [
+    {
+      "id": 1,
+      "title": "متغیر ها در جاوااسکریپت",
+      "readingTime": "خواندن پنج دقیقه ایی",
+      "imageUrl": "https://cinemavehicles.com/images/F142566120.jpg",
+      "date" : "1404-7-12", 
+      "author" : "اکرام کیا",
+      "content" : "تخصیص منابع پویا و مدیریت انرژی در مرکز داده مجازی با بارکاری متنوع     تخصیص منابع پویا و مدیریت انرژی در مرکز داده مجازی با بارکاری متنوع "
 
-            },{
-                "id":2,
-                "imageUrl": "https://example.com/image2.jpg",
-                "title":"عنوان دوم",
-                "readingTime" : 3
-            },
-            {
-                "id":3,
-                "imageUrl": "https://example.com/image3.jpg",
-                "title":"عنوان سوم",
-                "readingTime" : 4
-            }
-            ,{
-                "id":4,
-                "imageUrl": "https://example.com/image4.jpg",
-                "title":"عنوان چهارم",
-                "readingTime" : 6
-            },
-            {
-                "id":5,
-                "imageUrl": "https://example.com/image5.jpg",
-                "title":"عنوان پنجم",
-                "readingTime" : 2
-            }
-            ,{
-                "id":6,
-                "imageUrl": "https://example.com/image6.jpg",
-                "title":"عنوان ششم",
-                "readingTime" : 7
-            }
-            ,{
-                "id":7,
-                "imageUrl": "https://example.com/image7.jpg",
-                "title":"عنوان هفتم",
-                "readingTime" : 5
-            }
-            ,{
-                "id":8,
-                "imageUrl": "https://example.com/image8.jpg",
-                "title":"عنوان هشتم",
-                "readingTime" : 4
-            }
-        ]
+    },
+    {
+      "id": 2,
+      "title": "فانکشن ها در جاوااسکریپت",
+      "readingTime": "خواندن هشت دقیقه ایی",
+      "imageUrl": "https://ik.imagekit.io/ikmedia/backlit.jpg",
+       "date" : "1404-7-12",
+      "author" : "اکرام کیا",
+      "content" : "تخصیص منابع پویا و مدیریت انرژی در مرکز داده مجازی با بارکاری متنوع     تخصیص منابع پویا و مدیریت انرژی در مرکز داده مجازی با بارکاری متنوع "
+
+    },
+      {
+      "id": 3,
+      "title": "میتود ها در جاوااسکریپت",
+      "readingTime": " 2 ",
+      "imageUrl": "https://cinemavehicles.com/images/T142566055.jpg",
+       "date" : "1404-7-12",
+      "author" : "اکرام کیا",
+      "content" : "تخصیص منابع پویا و مدیریت انرژی در مرکز داده مجازی با بارکاری متنوع     تخصیص منابع پویا و مدیریت انرژی در مرکز داده مجازی با بارکاری متنوع "
+
+    },
+         {
+      "id": 4,
+      "title": "کلاس ها در جاوااسکریپت",
+      "readingTime": "خواندن چهار دقیقه ایی",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPh0Ue2EtE19ie_mhSK_--0YSemq7By3h9K14w2T4wOc6AkqyRBRk-kMKxDFqa35vczb4&usqp=CAU",
+       "date" : "1404-7-12",
+      "author" : "اکرام کیا",
+      "content" : "تخصیص منابع پویا و مدیریت انرژی در مرکز داده مجازی با بارکاری متنوع     تخصیص منابع پویا و مدیریت انرژی در مرکز داده مجازی با بارکاری متنوع "
+
+    },
+     {
+      "id": 5,
+      "title": "متغیر ها در جاوااسکریپت",
+      "readingTime": "5",
+      "imageUrl": "https://cinemavehicles.com/images/F142566120.jpg",
+       "date" : "1404-7-12",
+      "author" : "اکرام کیا",
+      "content" : "تخصیص منابع پویا و مدیریت انرژی در مرکز داده مجازی با بارکاری متنوع     تخصیص منابع پویا و مدیریت انرژی در مرکز داده مجازی با بارکاری متنوع "
+
+    },
+    {
+      "id": 6,
+      "title": "فانکشن ها در جاوااسکریپت",
+      "readingTime": "خواندن هشت دقیقه ایی",
+      "imageUrl": "https://ik.imagekit.io/ikmedia/backlit.jpg",
+       "date" : "1404-7-12",
+      "author" : "اکرام کیا",
+      "content" : "تخصیص منابع پویا و مدیریت انرژی در مرکز داده مجازی با بارکاری متنوع     تخصیص منابع پویا و مدیریت انرژی در مرکز داده مجازی با بارکاری متنوع "
+
+    },
+      {
+      "id": 7,
+      "title": "میتود ها در جاوااسکریپت",
+      "readingTime": "خواندن دو دقیقه ایی",
+      "imageUrl": "https://cinemavehicles.com/images/T142566055.jpg",
+       "date" : "1404-7-12",
+      "author" : "اکرام کیا",
+      "content" : "تخصیص منابع پویا و مدیریت انرژی در مرکز داده مجازی با بارکاری متنوع     تخصیص منابع پویا و مدیریت انرژی در مرکز داده مجازی با بارکاری متنوع "
+
+    },
+         {
+      "id": 8,
+      "title": "کلاس ها در جاوااسکریپت",
+      "readingTime": "خواندن چهار دقیقه ایی",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPh0Ue2EtE19ie_mhSK_--0YSemq7By3h9K14w2T4wOc6AkqyRBRk-kMKxDFqa35vczb4&usqp=CAU"
+      ,
+       "date" : "1404-7-12",
+      "author" : "اکرام کیا",
+      "content" : "تخصیص منابع پویا و مدیریت انرژی در مرکز داده مجازی با بارکاری متنوع     تخصیص منابع پویا و مدیریت انرژی در مرکز داده مجازی با بارکاری متنوع "
+
     }
-}
+  ]
+    }

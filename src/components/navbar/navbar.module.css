@@ -23,11 +23,12 @@
     padding-right: 40px;
 }
 
-.header ul li {
-    margin-left: 20px;
+
+
+.header a {
+    text-decoration: none;
+    color: #333;
+     margin-left: 20px;
     cursor: pointer;
-}
-
-.header h3{
-
+ 
 }

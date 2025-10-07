@@ -9,9 +9,9 @@ function Navbar(props) {
 
           <ul>
             <Link to={'/'}>لیست مقالات</Link>
-            {/* <li>مقاله</li> */}
-            {/* <li>درباره</li> */}
+          
             <Link to={'/about'}>درباره</Link>
+            <Link to={'/create-article'}>ایجاد مقاله</Link>
           </ul>
         </div>
       </div>

@@ -15,3 +15,7 @@ code {
 .container {
   padding: 0 160px;
 }
+
+*{
+  box-sizing: border-box;
+}

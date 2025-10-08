@@ -36,9 +36,6 @@ function Home() {
     <div className={styles.homeWrapper}>
       <Navbar title="کیا بلاگ" />
     
-      {/* <div style={{backgroundColor: "gray"}}>
-          
-      </div> */}
       <div className="container">
         <h2>مقالات جدید</h2>
 
